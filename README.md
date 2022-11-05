@@ -1,5 +1,9 @@
 # Assignment-Module-19
 
+## Purpose
+
+To build an application that allows employers to hire a web3 professional and pay them using ther over the Ethereum blockchain.
+
 I chose to hire "Lane" for 5.00 hours. Her hourly rate is 0.2 ether and her Ethereum address is 0xaC8eB8B2ed5C4a0fC41a84Ee4950F417f67029F0.
 
 The total wage payable in ether is 1.0.
@@ -24,4 +28,20 @@ Here I display the transaction details:
 
 ![](Images\ganache_transaction_details.JPG)
 
-For me to display the recipients balance and history in ganache I would need to change the address of "Lane" in the candidate_database dictionary located at line 91. As this was not specified in the instructions I chose to leave the address as the default.
+## Instructions
+
+- Update your .env file by setting the MNEMONIC variable to the mnemonic from your ganache application.
+
+- In the repo folder containing the krypto_jobs.py file, open a new bash terminal and type:
+
+`streamlit run krypto_jobs.py`
+
+- select a candidate.
+
+- select the number of hours to hire the the candidate.
+
+- Click "Send Transaction"
+
+- In ganache, selct Transactions to view the transaction details
+
+- Refresh the streamlit application to see the updated account balance in ether.
