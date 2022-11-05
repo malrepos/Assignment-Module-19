@@ -20,15 +20,15 @@ Upon sending the transaction in the strreamlit interface a validated transaction
 
 Ganache at block 1 with the transaction sent and my account updated:
 
-![](Images\ganache_block_1.JPG)
+![](https://github.com/malrepos/Assignment-Module-19/blob/main/Images/ganache_block_1.JPG)
 
 Here I display the expanded block 1 details:
 
-![](Images\ganache_block_1_details.JPG)
+![](https://github.com/malrepos/Assignment-Module-19/blob/main/Images/ganache_block_1_details.JPG)
 
 Here I display the transaction details:
 
-![](Images\ganache_transaction_details.JPG)
+![](https://github.com/malrepos/Assignment-Module-19/blob/main/Images/ganache_transaction_details.JPG)
 
 ## Instructions
 
