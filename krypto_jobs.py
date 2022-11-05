@@ -83,6 +83,9 @@ w3 = Web3(Web3.HTTPProvider("HTTP://127.0.0.1:7545"))
 #  and send_transaction
 # YOUR CODE HERE
 
+# this is imported above at ine 28:
+# from crypto_wallet import generate_account, get_balance, send_transaction
+
 ################################################################################
 # KryptoJobs2Go Candidate Information
 
@@ -91,7 +94,7 @@ w3 = Web3(Web3.HTTPProvider("HTTP://127.0.0.1:7545"))
 candidate_database = {
     "Lane": [
         "Lane",
-        "0xaC8eB8B2ed5C4a0fC41a84Ee4950F417f67029F0",
+        "0xED563a8454b8b03D402346a9C01ef78F43Ec3938",
         "4.3",
         0.20,
         "Images/lane.jpeg",
