@@ -12,11 +12,11 @@ The total wage payable in ether is 1.0.
 
 In the following screenshot, ganache at block 0 is shown:
 
-![](Images\ganache_block_0.JPG)
+![](https://github.com/malrepos/Assignment-Module-19/blob/main/Images/ganache_block_0.JPG)
 
 Upon sending the transaction in the strreamlit interface a validated transaction hash was displayed:
 
-![](Images\streamlit_validated_transaction_hash.JPG)
+![](https://github.com/malrepos/Assignment-Module-19/blob/main/Images/streamlit_validated_transaction_hash.JPG)
 
 Ganache at block 1 with the transaction sent and my account updated:
 
