@@ -4,6 +4,8 @@
 
 To build an application that allows employers to hire a web3 professional and pay them using ther over the Ethereum blockchain.
 
+## Results
+
 I chose to hire "Lane" for 5.00 hours. Her hourly rate is 0.2 ether and her Ethereum address is 0xaC8eB8B2ed5C4a0fC41a84Ee4950F417f67029F0.
 
 The total wage payable in ether is 1.0.
